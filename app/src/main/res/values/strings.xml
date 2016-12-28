@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Water Distribution Log</string>
+    <string name="operator_name">Operator Name</string>
+    <string name="current_date">Date:</string>
+    <string name="current_time">Time:</string>
+    <string name="login">Login</string>
+    <string name="main_gate_sump">Main Gate Sump</string>
+    <string name="staff_club">Staff Club</string>
+    <string name="children_park">Children Park</string>
+    <string name="kv_school">KV School</string>
+    <string name="bsb">BSB</string>
+    <string name="cauvery_hostel">Cauvery Hostel</string>
+    <string name="jamuna_hostel">Jamuna Hostel</string>
+    <string name="switch_text1">Pump On/Off Time</string>
+    <string name="main_sump_level">Main Sump Level</string>
+    <string name="overhead_tank_level_before_fill">OverHead Tank Level Before Filling</string>
+    <string name="overhead_tank_level_after_fill">OverHead Tank Level After Filling</string>
+    <string name="Valve_open_close_time">Valve Open/Close Time</string>
+    <string name="operating_zone">OPERATING ZONE</string>
+    <string name="title_pumpinformation_list">Zones</string>
+    <string name="title_pumpinformation_detail">PumpInformation Detail</string>
+    <string name="valve_close_time">VALVE OFF TIME</string>
+    <string name="valve_open_time">VALVE ON TIME</string>
+</resources>
